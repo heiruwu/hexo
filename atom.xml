@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Me and infinite bugs</title>
+  <title>SSD life</title>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-17T10:51:56.587Z</updated>
+  <updated>2016-05-03T15:53:33.311Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2nd</title>
+    <link href="http://yoursite.com/2016/05/03/End-of-2nd-month/"/>
+    <id>http://yoursite.com/2016/05/03/End-of-2nd-month/</id>
+    <published>2016-05-03T14:42:41.000Z</published>
+    <updated>2016-05-03T15:53:33.311Z</updated>
+    
+    <content type="html">&lt;p&gt;Finally been through the most
+chaotic period of time and kind of settled down into the new environment, at &lt;strong&gt;Bureau of Environmental Inspection&lt;/strong&gt;.&lt;br&gt;It&amp;#39;s far nicer than I expected, have to admit that, the only thing that bothers me is the dorm. Lacking of private space, not able to focus on anything as my roommate is always watching streams with maximum volumn.
+&lt;img src=&quot;/source/_images/dorm1.jpg&quot; alt=&quot;hallway&quot;&gt;&lt;br&gt;This dorm is like the same age as my parents, may fall apart anytime soon.  &lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Bought a &amp;quot;new&amp;quot; camera, a used one because of the budget.&lt;img src=&quot;/source/_images/xe1.jpg&quot; alt=&quot;x-e1&quot;&gt;
+Will be a good companian for the time being a Substitute Services Draftee.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Finally been through the most
+chaotic period of time and kind of settled down into the new environment, at &lt;strong&gt;Bureau of Environmenta
+    
+    </summary>
+    
+    
+      <category term="Chitchat" scheme="http://yoursite.com/tags/Chitchat/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://yoursite.com/2016/04/17/hello-world/"/>
     <id>http://yoursite.com/2016/04/17/hello-world/</id>
     <published>2016-04-17T10:51:56.585Z</published>
-    <updated>2016-04-17T10:51:56.587Z</updated>
+    <updated>2016-04-20T15:24:47.806Z</updated>
     
     <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
